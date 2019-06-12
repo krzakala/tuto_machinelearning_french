@@ -1,6 +1,6 @@
 ## Desctiption
 
-Ce répertoire contient le carnet iPython (.ipynb) des exercices de machine learning a destination des etudiants
+Ce répertoire contient le carnet iPython (.ipynb) des exercices de machine learning a destination des etudiants, en francais.
 
 ## Utilisation
 
